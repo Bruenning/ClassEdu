@@ -1,2 +1,19 @@
-# ClassEdu
-Projeto de IHC, e engenharia de software, onde mistura algumas funções do sistema de envio de arquivos o classroom, e o sistema de notas sigaEdu, o foco do sistema é as notas, e envio de projetos/trabalhos, onde o professor pode escolher se os trabalhos vão fazer parte de uma única nota ou de várias, em cada trabalho sendo possível mudar, e no final vai ser somado todos os trabalhos para gerar a nota, e sendo possível lançar notas avulso. 
+# classedu
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
